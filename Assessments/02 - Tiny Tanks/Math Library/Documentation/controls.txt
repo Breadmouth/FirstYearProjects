@@ -1,0 +1,19 @@
+PLAYER 1:
+
+tank forward: 	'W'
+tank left:	'A'
+tank right:	'D'
+tank back	'S'
+turret left	'Q'
+turret right	'E'
+shoot		'SPACE'
+
+PLAYER 2:
+
+tank forward: 	'NUMPAD_8'
+tank left:	'NUMPAD_4'
+tank right:	'NUMPAD_6'
+tank back	'NUMPAD_5'
+turret left	'NUMPAD_7'
+turret right	'NUMPAD_9'
+shoot		'NUMPAD_ENTER'

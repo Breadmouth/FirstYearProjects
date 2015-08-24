@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameState" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAgAAAAAAAACABAAJAA=</HashCode>
+      <FileName>include\GameState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameStateManager" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAABACAgQAAIACAAAAAACAAAAABAAAABAABAA=</HashCode>
+      <FileName>include\GameStateManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAABAAAAAAAAAAAQAAABAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>include\Bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BulletManager" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIQAgAAAAAAAAgAAAAAQAAAAAAAAAAAAAAAAAASAAAA=</HashCode>
+      <FileName>include\BulletManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParticleManager" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQABAAAAAAQAwAAAAAAAAAAACAAAAAAAAgAAAAAIAA=</HashCode>
+      <FileName>include\ParticleManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayingGameState" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAEAAACAAACgAAAACAAAAAAAhAAAAAAAACABIQAAA=</HashCode>
+      <FileName>include\PlayingGameState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SampleGame" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAAAAAAgAAAAAAAAAAAAAAgAAAAAAGQBAAAAA=</HashCode>
+      <FileName>include\SampleGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SplashScreen" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAQAAAAAAAgCAAAAAAAAAAAAAgAAACAACABAAAAA=</HashCode>
+      <FileName>include\SplashScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sprite" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIREAEAIBCCIEgBBAABAgARAAAYBIgqQAGAHAEkAgAM=</HashCode>
+      <FileName>include\Sprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tank" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAAAQAAAAAAAAAAAAAAAAAEAAAAEAAAAIAAAA=</HashCode>
+      <FileName>include\Tank.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Time" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAEAAQAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>include\Time.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Turret" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAgEAAACAAAAAAACAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>include\Turret.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CFQAEAIAAAAIAlAAAAAAAAAAQAqAAAAAAAACABCQBAY=</HashCode>
+      <FileName>include\Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Particle" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAAAACAAAAAAAQAAABAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>include\Particle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Vertex">
+    <Position X="10" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAACAAAIAAAAAAAAA=</HashCode>
+      <FileName>include\Sprite.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

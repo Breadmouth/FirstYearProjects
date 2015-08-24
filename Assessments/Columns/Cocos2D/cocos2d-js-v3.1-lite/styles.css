@@ -1,0 +1,16 @@
+body {background-color:slategray}
+#gameDiv 
+{
+    height:900px;
+    width:60%;
+    padding:10px;
+    float:left;
+}
+#scoreDiv
+{
+    height:200px;
+    width:8%;
+    padding:10px;
+    color:white;
+    float:left;
+}

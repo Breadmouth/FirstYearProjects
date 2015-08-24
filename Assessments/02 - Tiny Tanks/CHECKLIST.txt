@@ -1,0 +1,26 @@
+Please read each of the readme files contained within the sub folders of this directory for more information.
+
+Checklist:
+
+-----------------------------------------------------------------------------------------------------------
+
+	[ ] 	Submitted Binary Math Exercises
+
+	[ ] 	Binary Math exercises are compleate and confirm to the 
+		requirements of the Binary Math Assessment
+
+-----------------------------------------------------------------------------------------------------------
+
+	[ ]	Math Library Documentation compleate
+		 - either use doxygen or another auto documentation tool
+		 - or write entire documentation by hand.
+
+	[ ]	Math Library Project Source Submitted and compiles a "MathLibrary.lib" file
+
+	[ ]	Math Library utalised within another project to "proove" everything works
+
+-----------------------------------------------------------------------------------------------------------
+
+	[ ]	Tiny Tanks project Source submitted and compiles
+
+	[ ]	Release version submitted

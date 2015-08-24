@@ -1,0 +1,7 @@
+//////////////////////////	 Credits	///////////////////////////
+
+All images used are owned by Iain Dowling.
+
+Thanks to AIE for providing access to their framework.
+
+Thanks to the SQLite team for providing access to their SQL3 database library and source.

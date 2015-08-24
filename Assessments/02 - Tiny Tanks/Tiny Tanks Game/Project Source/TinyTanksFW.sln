@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TinyTanksFW", "TinyTanksFW.vcxproj", "{D7B4FD4B-DC48-4269-9BBD-99A1723CBB57}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E4483F1B-CCAF-4044-9703-038372488904} = {E4483F1B-CCAF-4044-9703-038372488904}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mathlib", "..\Mathlib\Mathlib.vcxproj", "{E4483F1B-CCAF-4044-9703-038372488904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7B4FD4B-DC48-4269-9BBD-99A1723CBB57}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D7B4FD4B-DC48-4269-9BBD-99A1723CBB57}.Debug|Win32.Build.0 = Debug|Win32
+		{D7B4FD4B-DC48-4269-9BBD-99A1723CBB57}.Release|Win32.ActiveCfg = Release|Win32
+		{D7B4FD4B-DC48-4269-9BBD-99A1723CBB57}.Release|Win32.Build.0 = Release|Win32
+		{E4483F1B-CCAF-4044-9703-038372488904}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E4483F1B-CCAF-4044-9703-038372488904}.Debug|Win32.Build.0 = Debug|Win32
+		{E4483F1B-CCAF-4044-9703-038372488904}.Release|Win32.ActiveCfg = Release|Win32
+		{E4483F1B-CCAF-4044-9703-038372488904}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

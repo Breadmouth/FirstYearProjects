@@ -1,0 +1,15 @@
+///////////////		 GAME CONTROLS	 	//////////////////////
+
+
+Menu/Pause/Level Select
+
+Movement keys:	Arrow keys
+Select:		Enter 
+Return:		Escape
+
+
+	Game
+
+Movement keys: 	Arrow keys
+Fire:		Space
+Pause:		Escape
